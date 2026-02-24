@@ -16,7 +16,9 @@ Automatizar testes funcionais web utilizando boas práticas de automação, orga
 
 ---
 
-c:\Users\SAMSUNG\OneDrive\Imagens\Screenshots\teste-executando.png
+## 📸 Teste em Execução
+
+![Teste rodando](images/teste-executando.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
