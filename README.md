@@ -16,6 +16,8 @@ Automatizar testes funcionais web utilizando boas práticas de automação, orga
 
 ---
 
+c:\Users\SAMSUNG\OneDrive\Imagens\Screenshots\teste-executando.png
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Java 17 (Temurin)
