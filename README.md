@@ -18,7 +18,7 @@ Automatizar testes funcionais web utilizando boas práticas de automação, orga
 
 ## 📸 Teste em Execução
 
-![Teste rodando](images/teste-executando.png)
+![Teste rodando](teste-executando.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
