@@ -40,7 +40,7 @@ git clone https://github.com/AnteroVieira/functional-test-automation.git
 
 Acesse a pasta do projeto:    cd functional-test-automation
 
-Execute no terminal " mvn clean test "
+Execute no terminal " mvn clean test " ( VS Code)
 
 obs: use as teclas Ctrl + ' para abrir o terminal
 
